@@ -33,8 +33,13 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am an Android Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
+I am an Android & Front-End Developer |Java | Javascript | React.js | Node Js |RDBMS: MYSQL, ORACLE| MongoDb | WordPress | TailwindCSS | Currently, **I'm open to work and employment opportunities**.
+### Numbers
+![nazmul's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
+![nazmul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
+
+![nazmul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 

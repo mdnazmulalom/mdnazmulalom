@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 I am an Android & Front-End Developer |Java | Javascript | React.js | Node Js |RDBMS: MYSQL, ORACLE| MongoDb | WordPress | TailwindCSS | Currently, **I'm open to work and employment opportunities**.
 ### Numbers
-![nazmul's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![nazmul's Stats](https://github-readme-stats.vercel.app/api?username=mdnazmulalom&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![nazmul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
+![nazmul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdnazmulalom&theme=darcula&hide_border=true)
 
-![nazmul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![nazmul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnazmulalom&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 

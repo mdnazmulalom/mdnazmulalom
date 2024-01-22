@@ -19,7 +19,8 @@ Currently, **I'm interested in remote work or internship opportunities in Finlan
 
 
 
-                  <center> ### Technical Skills </center>
+### Technical Skills
+
 ### Android App Development
 Java (OOP), Java Android / Material UI / REST API| Retrofit  / Volley Android / PHP (7.x)
 ### Web Design & Development

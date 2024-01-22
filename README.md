@@ -17,9 +17,11 @@ Hi! I am a junior Android developer specializing in Java. I bring over 2 years o
 
 Currently, **I'm interested in remote work or internship opportunities in Finland.**.
 
+
+
 ### Technical Skills
 ### Android App Development
-Java, XML, REST-API, 
+Java (OOP), Java Android / Material UI / REST API| Retrofit  / Volley Android / PHP (7.x)
 ### Web Design & Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)

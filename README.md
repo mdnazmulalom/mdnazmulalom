@@ -43,12 +43,8 @@ Java, XML, REST-API,
 ### OS
 
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-### Numbers
-![nazmul's Stats](https://github-readme-stats.vercel.app/api?username=mdnazmulalom&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-![nazmul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdnazmulalom&theme=darcula&hide_border=true)
-
-![nazmul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnazmulalom&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+### VISUALS
+![nazmul's Stats](https://github-readme-stats.vercel.app/api?username=mdnazmulalom&theme=darcula&show_icons=true&hide_border=true&count_private=true) ![nazmul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdnazmulalom&theme=darcula&hide_border=true) ![nazmul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnazmulalom&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Follow Me
 

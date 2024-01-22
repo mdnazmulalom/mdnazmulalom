@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Nazmul! Software Engineer.😊 </h1>
-Hi! I am a junior Android developer specializing in Java. I bring over 2 years of hands-on experience in the development field. Driven by a dream to become a passionate professional software engineer, I am dedicated to honing my skills, expanding my expertise, and staying up-to-date with emerging technologies. I thrive in challenging environments, where problem-solving and maintaining accuracy in my work are paramount.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Nazmul! Software Engineer. </h1>
+Hi! I am a junior Android developer specializing in Java. I bring over 2 years of hands-on experience in the development field. Driven by a dream to become a passionate professional software engineer, I am dedicated to honing my skills, expanding my expertise, and staying up-to-date with emerging technologies. I thrive in challenging environments, where problem-solving and maintaining accuracy in my work are paramount.  
 
 Currently, **I'm interested in remote work or internship opportunities in Finland.**.
 
 
 
-### Technical Skills
+                  <center> ### Technical Skills </center>
 ### Android App Development
 Java (OOP), Java Android / Material UI / REST API| Retrofit  / Volley Android / PHP (7.x)
 ### Web Design & Development

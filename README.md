@@ -45,6 +45,6 @@ I am an Android & Front-End Developer |Java | Javascript | React.js | Node Js |R
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdnazmulalom/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/nazmulalompage)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/nazmulalompage)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg11FCgAxpTWBveAMdU7_TQ)(https://www.youtube.com/c/NazmulAlom)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg11FCgAxpTWBveAMdU7_TQ)
 
 

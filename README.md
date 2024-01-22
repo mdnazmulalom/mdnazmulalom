@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Nazmul! Software Engineer.😊 </h1>
 
+I am an Android & Front-End Developer |Java | Javascript | React.js | Node Js |RDBMS: MYSQL, ORACLE| MongoDb | WordPress | TailwindCSS | Currently, **I'm open to work and employment opportunities**.
+
+### Technical Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
@@ -30,8 +33,6 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-I am an Android & Front-End Developer |Java | Javascript | React.js | Node Js |RDBMS: MYSQL, ORACLE| MongoDb | WordPress | TailwindCSS | Currently, **I'm open to work and employment opportunities**.
 ### Numbers
 ![nazmul's Stats](https://github-readme-stats.vercel.app/api?username=mdnazmulalom&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
@@ -43,4 +44,7 @@ I am an Android & Front-End Developer |Java | Javascript | React.js | Node Js |R
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdnazmulalom/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/nazmulalompage)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/nazmulalompage)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg11FCgAxpTWBveAMdU7_TQ)(https://www.youtube.com/c/NazmulAlom)
+
 

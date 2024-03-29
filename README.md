@@ -50,6 +50,9 @@ Java (OOP), Java Android / Material UI / REST API| Retrofit  / Volley Android / 
 
 ### Follow Me
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg11FCgAxpTWBveAMdU7_TQ)
+![YouTube Channel Subscribers](https://www.youtube.com/channel/UCg11FCgAxpTWBveAMdU7_TQ)
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdnazmulalom/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/nazmulalompage)
 

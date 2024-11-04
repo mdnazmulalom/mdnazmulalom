@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Nazmul! Software Engineer(Android & Web). </h1>
-Hi! I am a junior Android developer specializing in Java. I bring over 2 years of hands-on experience in the development field. Driven by a dream to become a passionate professional software engineer, and stay up-to-date with new emerging technologies.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Md Nazmul Alom! Software Engineer(Android & Web). </h1>
+Hi! I am a junior Android developer specializing in Java. I bring over 2 years of hands-on experience in the development field. I’m interested in Mobile Applications Development & A.I.
+🌱 I’m currently learning Web Application Development using Javascript, React, Node JS, and Next JS.
 
-Currently, **I'm interested in remote work or internship opportunities in Finland.**.
+💞️ **I'm interested in an internship on Android & Web.**.
 
 
 

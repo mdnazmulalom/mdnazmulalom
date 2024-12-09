@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Md Nazmul Alom! Software Engineer|Android | Web |  </h1>
 Hi! I am an Android developer specializing in Java. I have 2 years of hands-on experience in the development field. Currently, I'm exploring Web technology Javascript, React, Node JS, and Next JS. 
 
-💞️ **I'm interested in AI & ML to implement .**.
+💞️ **I'm interested in AI & ML Research & Development .**.
 
 
 

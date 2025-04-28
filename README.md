@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Md Nazmul Alom! Software Engineer </h1>
-Hi! I am an Android developer specializing in Java and Kotlin. Currently, I'm exploring Web technology, including Javascript, React, Node JS, and Next JS. 
-
-💞️ **I'm interested in AI Development that has business value .**.
+💞️ ** I'm passionate about AI software development with a focus on business impact. **.
 
 
 

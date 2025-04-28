@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Md Nazmul Alom! Software Engineer </h1>
-💞️ ** I'm passionate about Android software development with a focus on business impact. **.
+** I'm passionate about Android software development with a focus on business impact **
 
 
 

@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Md Nazmul Alom! Software Engineer </h1>
-💞️ ** I'm passionate about AI software development with a focus on business impact. **.
+💞️ ** I'm passionate about Android software development with a focus on business impact. **.
 
 
 
 ### Technical Skills
 
 ### Android App Development
-Java (OOP), Java Android / Material UI / REST API| Retrofit  / Volley Android / PHP (7.x)
+Java/ Kotlin/ Material UI / REST API| Retrofit / Volley /
 ### Full Stack Software Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)

@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! My name is Md Nazmul Alom! I've completed my master's degree in full Software Engineering from JAMK </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! My name is Md Nazmul Alom! Full Stack Software Engineer </h1>
 ** I'm passionate about problem-solving with a focus on business impact **
 
 

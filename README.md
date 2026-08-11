@@ -13,7 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! My name is Nazmul Alom!</h1>
-** I'm passionate about problem-solving with a focus on business impact **
-
-### Follow Me
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg11FCgAxpTWBveAMdU7_TQ)

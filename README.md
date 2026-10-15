@@ -14,15 +14,23 @@ Here are some ideas to get you started:
 -->
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Md Nazmul Alom!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Md Nazmul Alom!</h1>   
 
-**Software Engineer (Android) | Prospective Ph.D. Candidate in Mobile Security**  
-Jyväskylä, Finland • mdnazmulalomcse@gmail.com • [GitHub](https://github.com) • [LinkedIn](https://linkedin.com)
+**Software Engineer (Android) | Prospective Ph.D. Candidate**  
+*Actively seeking Software Engineering (Android) roles and Ph.D. candidate / doctoral research opportunities in Finland.*
+
+Jyväskylä, Finland • mdnazmulalomcse@gmail.com • [GitHub](https://github.com/mdnazmulalom) • [LinkedIn](https://www.linkedin.com/in/mdnazmulalom/)
 
 ---
 
 ## Profile
-Software Engineer specializing in native Android development, mobile security, and full-stack API integration. Master of Science graduate in Full-Stack Software Engineering from Jamk UAS (Grade: 4.63/5.0), actively seeking software engineering roles and Ph.D. candidate / doctoral research opportunities in Finland.
+Software Engineer specializing in native Android development, mobile software security, and full-stack API integration. Master of Science graduate in Full-Stack Software Engineering from Jamk UAS (Grade: 4.63/5.0), seeking doctoral research opportunities and software engineering roles in Finland.
+
+---
+
+## Ph.D. Research Interests
+* **Software Engineering & Systems:** Scalable Software Architectures, Software Security, Mobile Computing, Agentic Engineering.
+* **Security & Privacy:** Database Security, Authentication & Access Control, Privacy-Preserving Systems, Mobile Network Security.
 
 ---
 
@@ -46,7 +54,7 @@ Software Engineer specializing in native Android development, mobile security, a
 * **Mobile & Architecture:** Kotlin, Java, Jetpack Compose, XML UI, MVVM, Room, Retrofit, Coroutines, Android SDK
 * **Security & Backend:** OAuth2/JWT, Android Keystore, Full-Disk Encryption (FDE), PostgreSQL, MySQL, REST APIs
 * **Tools & Languages:** Git, Docker, Linux, Android Studio, Python, SQL, TypeScript
-* **Exploring:** Agentic AI, AWS Cloud Infrastructure
+* **Exploring:** Agentic Engineering, AWS Cloud Infrastructure, Advanced Database Security
 
 ---
 
@@ -69,4 +77,3 @@ Software Engineer specializing in native Android development, mobile security, a
 
 ## Languages
 * English (Fluent) | Finnish (A2) | Bengali (Native)
-

@@ -36,7 +36,7 @@ Software Engineer specializing in native Android development, mobile software se
 
 ## Education
 **M.Sc. in Full-Stack Software Engineering** — Jamk University of Applied Sciences, Finland *(Graduated 2026)*  
-* **Grade:** 4.63 / 5.0 (Finnish Academic Grading Scale)
+* **Grade:** 4.62 / 5.0 (Finnish Academic Grading Scale)
 * **Master's Thesis (Grade: 5/5 Excellent):** [*Secure Authentication and Data Protection in Android Applications: A Full Stack Implementation Approach*](https://www.theseus.fi/items/da72f02b-a940-4b30-978c-5c95c8106e01)
 
 **B.Sc. in Computer Science & Engineering** — Port City International University, Bangladesh *(2021)*  

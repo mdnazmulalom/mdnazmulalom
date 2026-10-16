@@ -24,7 +24,7 @@ Jyväskylä, Finland • mdnazmulalomcse@gmail.com • [GitHub](https://github.c
 ---
 
 ## Profile
-Software Engineer specializing in native Android development, mobile software security, and full-stack API integration. Master of Science graduate in Full-Stack Software Engineering from Jamk UAS (Grade: 4.63/5.0), seeking doctoral research opportunities and software engineering roles in Finland.
+Software Engineer specializing in native Android development, mobile software security, and full-stack API integration. Master of Science graduate in Full-Stack Software Engineering from Jamk UAS, seeking doctoral research opportunities and software engineering roles in Finland.
 
 ---
 

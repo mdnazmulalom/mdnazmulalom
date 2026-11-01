@@ -55,25 +55,3 @@ Software Engineer specializing in native Android development, mobile software se
 * **Security & Backend:** OAuth2/JWT, Android Keystore, Full-Disk Encryption (FDE), PostgreSQL, MySQL, REST APIs
 * **Tools & Languages:** Git, Docker, Linux, Android Studio, Python, SQL, TypeScript
 * **Exploring:** Agentic Engineering, AWS Cloud Infrastructure, Advanced Database Security
-
----
-
-## Experience
-**Founder & Tech Lead** | VidSoft Mon — Finland *(Aug 2025 – Present)*  
-* Oversee software workflows, digital platforms, and media automation.
-
-**Jr. Android Developer** | Affable Technology Services — Bangladesh *(Jun 2021 – Jun 2023)*  
-* Developed native Android features with Java/Kotlin and integrated client-server REST APIs.
-* Managed background data synchronization and collaborated on app UI/UX.
-
----
-
-## Key Projects
-* **Published Master's Thesis Project:** Reference full-stack security architecture implementing OAuth2/JWT, Android Keystore, and client-side data protection.
-* **Wolt Assignment App:** Real-time venue discovery app built with Kotlin, Retrofit polling, and local persistence.
-* **eFarmers Marketplace:** Multi-role Android app with PHP REST APIs and database security constraints.
-
----
-
-## Languages
-* English (Fluent) | Finnish (A2) | Bengali (Native)

@@ -44,3 +44,8 @@ Here are some ideas to get you started:
 * **Security:** OAuth2/JWT, Android Keystore, Full-Disk Encryption (FDE)
 * **Tools:** Claude Code, Codex, Vite, Docker, Git, Linux, Android Studio
 * **Exploring:** Agentic Engineering, AWS Cloud Infrastructure, Advanced Database Security
+
+## Get In Touch
+🌐 Website: vdisoftmon.com
+💼 [LinkedIn:](https://www.linkedin.com/in/mdnazmulalom/)
+📧 Email: hello@vidsoftmon.com

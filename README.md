@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **Full Stack Software Engineer | Entrepreneur | Content Creator | Prospective Ph.D. Candidate**  
 
-*Founder of @VidSoftMon: Video Editing, Design, Websites, Apps, and AI for businesses. Building tools and services that solve real problems*
+*Founder of [VidSoft Mon](https://www.vidsoftmon.com), Video Editing, Design, Websites, Apps, and AI for businesses. Building tools and services that solve real problems*
 
 [VidSoft Mon](https://www.vidsoftmon.com) - [GitHub](https://github.com/mdnazmulalom) - [LinkedIn](https://www.linkedin.com/in/mdnazmulalom/)
 

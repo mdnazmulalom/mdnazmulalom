@@ -16,37 +16,17 @@ Here are some ideas to get you started:
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Md Nazmul Alom!</h1> 
 
-**Full Stack Software Engineer | Entrepreneur | Creator**  
+**Full Stack Software Engineer | Entrepreneur | Content Creator | Prospective Ph.D. Candidate**  
 
 *Founder of @VidSoftMon: Video Editing, Design, Websites, Apps, and AI for businesses. Building tools and services that solve real problems*
+
 🔵 [VidSoft Mon](https://www.vidsoftmon.com) 🔵 [GitHub](https://github.com/mdnazmulalom) 🔵 [LinkedIn](https://www.linkedin.com/in/mdnazmulalom/) 🔵 [Email](vidsoftmon@gmai.com) 
-
-
-**Software Engineer (Android) | Prospective Ph.D. Candidate**  
-*Actively seeking Software Engineering (Android) roles and Ph.D. candidate / doctoral research opportunities in Finland.*
-
-
-
----
-
-## Profile
-Software Engineer specializing in native Android development, mobile software security, and full-stack API integration. Master of Science graduate in Full-Stack Software Engineering from Jamk UAS, seeking doctoral research opportunities and software engineering roles in Finland.
 
 ---
 
 ## Ph.D. Research Interests
 * **Software Engineering & Systems:** Scalable Software Architectures, Software Security, Mobile Computing, Agentic Engineering.
 * **Security & Privacy:** Database Security, Authentication & Access Control, Privacy-Preserving Systems, Mobile Network Security.
-
----
-
-## Education
-**M.Sc. in Full-Stack Software Engineering** — Jamk University of Applied Sciences, Finland *(Graduated 2026)*  
-* **Grade:** 4.62 / 5.0 (Finnish Academic Grading Scale)
-* **Master's Thesis (Grade: 5/5 Excellent):** [*Secure Authentication and Data Protection in Android Applications: A Full Stack Implementation Approach*](https://www.theseus.fi/items/da72f02b-a940-4b30-978c-5c95c8106e01)
-
-**B.Sc. in Computer Science & Engineering** — Port City International University, Bangladesh *(2021)*  
-* **CGPA:** 3.49 / 4.0
 
 ---
 

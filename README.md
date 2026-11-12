@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 [VidSoft Mon](https://www.vidsoftmon.com) - [GitHub](https://github.com/mdnazmulalom) - [LinkedIn](https://www.linkedin.com/in/mdnazmulalom/) -[Email](hello@vidsoftmon.com)
 
-
-
+---
+## Projects
+1. Loading...
 ---
 
 ## Ph.D. Research Interests
@@ -32,14 +33,14 @@ Here are some ideas to get you started:
 
 ---
 
-## Honors & Achievements
-* **2026 Scholarship for Graduated Master of Engineering:** Awarded €500 by the School of Technology, Jamk University of Applied Sciences, for successful and purposeful completion of Master's studies within target time.
-* **Thesis Grade 5/5 (Excellent):** Achieved the highest possible grade for Master's research on Android mobile security and full-stack data protection, published on Theseus.
+## Tech Stack
 
----
-
-## Technical Skills
-* **Mobile & Architecture:** Kotlin, Java, Jetpack Compose, XML UI, MVVM, Room, Retrofit, Coroutines, Android SDK
-* **Security & Backend:** OAuth2/JWT, Android Keystore, Full-Disk Encryption (FDE), PostgreSQL, MySQL, REST APIs
-* **Tools & Languages:** Git, Docker, Linux, Android Studio, Python, SQL, TypeScript
+* **Languages:** Java, Kotlin, TypeScript, JavaScript, Python
+* **Mobile & Architecture:** Android, Kotlin, Java, Jetpack Compose, XML UI, MVVM, Room, Retrofit, Coroutines, Android SDK
+* **Frontend:** React, Next.js, Tailwind CSS
+* **Backend:**  PHP, Node.js, Express, FastAPI
+* **AI/ML:** OpenAI, Anthropic, Google AI, LangChain
+* **Databases:**  Oracle, PostgreSQL, MySQL, SQLite 
+* **Security:** OAuth2/JWT, Android Keystore, Full-Disk Encryption (FDE)
+* **Tools:** Claude Code, Codex, Vite, Docker, Git, Linux, Android Studio
 * **Exploring:** Agentic Engineering, AWS Cloud Infrastructure, Advanced Database Security

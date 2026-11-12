@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Md Nazmul Alom!</h1>   
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Md Nazmul Alom!</h1> 
+
+**Full Stack Software Engineer | Entrepreneur | Creator**  
+
+*Founder of @VidSoftMon: Video Editing, Design, Websites, Apps, and AI for businesses. Building tools and services that solve real problems*
 
 **Software Engineer (Android) | Prospective Ph.D. Candidate**  
 *Actively seeking Software Engineering (Android) roles and Ph.D. candidate / doctoral research opportunities in Finland.*

@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 **Full Stack Software Engineer | Entrepreneur | Creator**  
 
 *Founder of @VidSoftMon: Video Editing, Design, Websites, Apps, and AI for businesses. Building tools and services that solve real problems*
+🔵 [VidSoft Mon](https://www.vidsoftmon.com) 🔵 [GitHub](https://github.com/mdnazmulalom) 🔵 [LinkedIn](https://www.linkedin.com/in/mdnazmulalom/) 🔵 [Email](vidsoftmon@gmai.com) 
+
 
 **Software Engineer (Android) | Prospective Ph.D. Candidate**  
 *Actively seeking Software Engineering (Android) roles and Ph.D. candidate / doctoral research opportunities in Finland.*
 
-Jyväskylä, Finland • mdnazmulalomcse@gmail.com • [GitHub](https://github.com/mdnazmulalom) • [LinkedIn](https://www.linkedin.com/in/mdnazmulalom/)
+
 
 ---
 

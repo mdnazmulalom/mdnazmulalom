@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 
 ## Get In Touch
 * 🌐 Website:[vdisoftmon.com :](https://www.vidsoftmon.com)
-* 💼 [LinkedIn:](https://www.linkedin.com/in/mdnazmulalom)
+* 💼 LinkedIn: [LinkedIn.Com](https://www.linkedin.com/in/mdnazmulalom)
 * 📧 Email: hello@vidsoftmon.com

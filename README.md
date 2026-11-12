@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 * **Exploring:** Agentic Engineering, AWS Cloud Infrastructure, Advanced Database Security
 
 ## Get In Touch
-* 🌐 Website:[vdisoftmon.com :](https://www.vidsoftmon.com)
+* 🌐 Website:[vdisoftmon.com](https://www.vidsoftmon.com)
 * 💼 LinkedIn: [LinkedIn.Com](https://www.linkedin.com/in/mdnazmulalom)
 * 📧 Email: hello@vidsoftmon.com

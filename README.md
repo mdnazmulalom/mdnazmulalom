@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 * **Mobile & Architecture:** Android, Kotlin, Java, Jetpack Compose, XML UI, MVVM, Room, Retrofit, Coroutines, Android SDK
 * **Frontend:** React, Next.js, Tailwind CSS
 * **Backend:**  PHP, Node.js, Express, FastAPI
-* **AI/ML:** OpenAI, Anthropic, Google AI, LangChain
+* **Agentic AI/ML:** OpenAI Agents SDK, CrewAI, LangChain, LangGraph, AutoGen, and MCP
 * **Databases:**  Oracle, PostgreSQL, MySQL, SQLite 
 * **Security:** OAuth2/JWT, Android Keystore, Full-Disk Encryption (FDE)
 * **Tools:** Claude Code, Codex, Vite, Docker, Git, Linux, Android Studio
-* **Exploring:** Agentic Engineering, AWS Cloud Infrastructure, Advanced Database Security
+* **Exploring:** AI Engineer Agentic Track, Cloud Computing, Advanced Database Security.
 
 ## Get In Touch
 * 🌐 Website:[vdisoftmon.com](https://www.vidsoftmon.com)

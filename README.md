@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 ---
 
 ## Ph.D. Research Interests
-* **Software Engineering & Systems:** Scalable Software Architectures, Software Security, Mobile Computing, Agentic Engineering.
-* **Security & Privacy:** Database Security, Authentication & Access Control, Privacy-Preserving Systems, Mobile Network Security.
+* **Privacy-Enhancing Technologies:** Database security and privacy, designing theoretical protocols and algorithms
+* **Mobile Computing, Mobile Network Security & Android Software Security
+* **Agentic AI & Cloud Computing
 
 ---
 
